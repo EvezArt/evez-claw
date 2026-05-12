@@ -4,7 +4,7 @@ scipy>=1.10.0
 
 # Web automation
 playwright>=1.40.0
-selenium>=4.15.0
+selenium>=4.36.0
 
 # Desktop automation
 pyautogui>=0.9.54
