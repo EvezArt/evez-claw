@@ -12,7 +12,7 @@ keyboard>=0.13.5
 mouse>=0.7.1
 
 # Mobile automation
-Appium-Python-Client>=3.1.0
+Appium-Python-Client>=5.3.1
 
 # Visualization
 plotly>=5.18.0
