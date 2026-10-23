@@ -19,7 +19,7 @@ plotly>=5.18.0
 streamlit>=1.29.0
 
 # Data processing
-pandas>=2.1.0
+pandas>=2.3.3
 
 # Quantum (optional)
 qiskit>=0.45.0
